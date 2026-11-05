@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Demobro desktop (arm64)</title>
-    <link>https://github.com/Fran-cois/demobro-ota/releases</link>
+    <link>https://github.com/demobro-com/demobro-ota/releases</link>
     <description>Verified Demobro desktop updates. No public release is available yet.</description>
   </channel>
 </rss>
